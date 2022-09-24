@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Cs203/2021csb1087"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.js": "javascriptreact",
+			"iosfwd": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
